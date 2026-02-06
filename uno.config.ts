@@ -42,7 +42,7 @@ export default defineConfig({
     },
     text: {
       // This should add to the existing Wind4 preset text sizes
-      xxs: { fontSize: '0.5rem' },
+      xxs: { fontSize: '0.625rem' },
     },
     colors: {
       // Minimal black & white palette with subtle grays
